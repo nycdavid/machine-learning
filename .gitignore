@@ -1,3 +1,4 @@
 .idea/
 @eaDir
 .DS_Store
+*.pyc
